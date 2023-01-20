@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color-Customize{
+    background-color: #264653;
+}
+.login-bg-color{
+    background-color: #E76F51;
+}
+.banner-title{
+    font-size: 3rem;
+}
+.section-title{
+    font-size: 3em;
+    font-weight: 600;
+}
+.coloring-text{
+    color: #E76F51;
+}
+.img-grayscale{
+    filter: grayscale(1);
+}
+.bg-btn-color{
+    background-color: #E76F51;
+}
+.card-img-style{
+    height: 149px;
+    width: 149px;
+}
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color: #E76F51;
+}
